@@ -20,6 +20,8 @@
     "@babel/preset-env": "^7.21.5",
     "babel-cli": "^6.26.0",
     "nodemon": "^2.0.22",
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.1",
     "wrangler": "^2.20.0"
   }
 }
